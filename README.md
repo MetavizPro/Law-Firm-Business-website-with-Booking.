@@ -68,21 +68,23 @@ The Law Firm Business Website was designed to provide an authoritative and profe
 
 ## 🛠️ Tech Stack
 
-**Backend:**
-![](https://img.shields.io/badge/BigCommerce-232F3E?style=for-the-badge&logo=bigcommerce&logoColor=white)
+### **Frontend Languages & Technologies:**
+- **HTML5** – Structures the webpage content.
+- **CSS3** – Styles and layouts the website.
+- **JavaScript** – Adds interactivity and dynamic features.
+- **jQuery** – A JavaScript library commonly used in WordPress themes and plugins.
 
-**Frontend:**
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
-
+### **Backend Languages & Technologies:**
+- **PHP** – The core scripting language of WordPress.
+- **MySQL** – Manages the database, storing content and user information.
 ---
 
-## 👨‍💻 About the Developer
+## 👨‍💻 About the Developer  
 
-At Metaviz, we have a team of experienced WordPress developers. This project highlights our expertise in creating feature-rich, professional websites that deliver real value to both businesses and their customers. 
+At **MetaViz**, we have a team of experienced **WordPress developers** specializing in creating high-performance, **SEO-optimized**, and **conversion-driven** websites. This project showcases our expertise in building **custom WordPress solutions** that provide real value to businesses, coaches, and service providers.  
 
-If you're looking for a WordPress expert to build or enhance your website, let’s collaborate and create a powerful platform for your business!
+If you're looking for a **WordPress expert** to develop, optimize, or enhance your website, **let’s collaborate** and build a powerful digital platform for your business! 🚀
+
 ---
 
 ## 📬 Contact Me
@@ -94,5 +96,5 @@ If you're looking for a WordPress expert to build or enhance your website, let�
 
 ---
 
-Hire our team to elevate your Brilliant Directories project, and let’s build a platform that meets your business needs!
+Hire our team to elevate your WordPress website, and let’s build a high-performance, scalable, and SEO-optimized platform tailored to your business needs!
 ---
